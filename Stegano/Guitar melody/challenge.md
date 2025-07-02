@@ -1,0 +1,3 @@
+My good friend sent me an audio file with a guitar melody. I can't understand what he wanted to tell me...
+Flag in the format grodno{secret_message}.
+

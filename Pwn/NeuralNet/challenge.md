@@ -1,0 +1,3 @@
+Lyosha, an enthusiastic intern, created his first ‘neural network’. It is a simulator programme that mimics model learning and prediction. He is so proud of his creation that he left all the debugging functionality in it. One of these ‘features’ was ‘Neural Intervention’ - a powerful tool that allows you to directly change the state of the system by writing a numerical value to an arbitrary address in memory. Lyosha was sure that it was perfectly safe. Somewhere in the depths of his code is hidden a protocol for accessing closed research data, left by his senior colleagues. Can you find it and, taking advantage of Lyosha's naivety, activate it?
+
+nc ctf.mf.grsu.by 9076
