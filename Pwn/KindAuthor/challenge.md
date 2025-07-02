@@ -1,0 +1,3 @@
+There was a very kind author living in the digital world. He created a unique helper programme that was supposed to make life easier for other developers. In his boundless kindness, he even built into the programme a special function that he thought would help debug complex call chains. ‘Let the user have all the tools at his fingertips!’ - he liked to say, without thinking about the consequences. But kindness sometimes borders on naivety. The author trusted his users so much that he completely forgot about basic safety rules. He left the door to his house wide open, hanging a sign on it saying ‘Welcome’.
+
+nc ctf.mf.grsu.by 9075
